@@ -1,1 +1,1 @@
-# tallercontinuous
+# CONTINUOUS INTEGRATION WORKSHOP 
